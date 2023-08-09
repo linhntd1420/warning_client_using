@@ -1,0 +1,7 @@
+smtplib
+ssl
+jinja2
+redshift_connector
+oauth2client
+gspread
+pandas
